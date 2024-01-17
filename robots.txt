@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://kuli.openxcplatform.com/superjp/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/gilajp/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/gojekpot/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/winstrike69/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/slotgacor/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/slotzeus/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/kaptenjackpot/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/boosterjp/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/kerajaanslot/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/pakong86/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/viral88/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/clan4d/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/dinamit4d/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/elang212/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/gori77/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/viral4d/sitemap.xml
+Sitemap: http://kuli.openxcplatform.com/playground88/sitemap.xml
